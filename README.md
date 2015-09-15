@@ -1,2 +1,2 @@
 # LR--Compact-Connectivity-Representation-for-Triangle-Meshes
-My teacher's project:according to the binocular vision calibration model,the object's location is obtained.
+This is my graduation thesis about paper"LR- Compact Connectivity representation for Triangle Meshes-Siggraph2011".I have achieved most part of this paper in Matlab.
